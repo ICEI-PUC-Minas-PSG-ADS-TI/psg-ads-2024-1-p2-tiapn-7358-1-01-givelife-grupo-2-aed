@@ -1,23 +1,20 @@
-# TÍTULO DO PROJETO
+# GiveLife
 
-`CURSO`
+`Trabalho Interdisciplinar: Desenvolvimento de Aplicação Interativa`
 
-`DISCIPLINA`
-
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Um projeto de aplicação de doação de sangue desenvolvido com o objetivo de conectar doadores voluntários a instituições de saúde que necessitam de sangue regularmente. A aplicação funciona como uma plataforma onde os doadores se cadastram, informam seu tipo sanguíneo e disponibilidade, e recebem notificações quando há uma demanda compatível em hospitais ou bancos de sangue próximos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Nathielle Guimaraes de Lima
+* Samyr Endrigo Póvoa de Souza
+* Júlio Navarro De Oliveira
+* Nathanael Victor Souza de Oliveira
+* Ingrid Mendes Martins Correa
 
 ## Orientador
 
-* Nome completo do professor 1
+* Ramon Lacerda Marques
 
 ## Instruções de utilização
 
