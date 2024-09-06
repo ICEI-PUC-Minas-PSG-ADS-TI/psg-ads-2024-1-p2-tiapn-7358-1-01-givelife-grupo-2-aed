@@ -11,6 +11,7 @@ Um projeto de aplicação de doação de sangue desenvolvido com o objetivo de c
 * Júlio Navarro De Oliveira
 * Nathanael Victor Souza de Oliveira
 * Ingrid Mendes Martins Correa
+* Márcio Lucas Machado Pereira
 
 ## Orientador
 
